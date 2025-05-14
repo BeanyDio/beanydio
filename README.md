@@ -4,6 +4,7 @@
 
 Latest Project
 
-Language and Tools
+### Language and Tools
+![Dynamic TOML Badge](https://img.shields.io/badge/dynamic/toml)
 
 Follow me
