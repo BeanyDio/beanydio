@@ -2,7 +2,17 @@
 
 ## 15 y/o self-taught developer
 
-Latest Project
+### Projects
+<div style="display: flex; flex-direction: column; gap: 10px; margin-left: 5px;">
+  <div style="display: flex; gap: 10px;">
+    <span style="color: #5865F2; font-weight: bold;">• </span>
+    <a href="https://t.me/SupernalRB">Supernal</a>
+  </div>
+  <div style="display: flex; gap: 10px;">
+    <span style="color: #5865F2; font-weight: bold;">• </span>
+    <span>Soon more</span>
+  </div>
+</div>
 
 ### Language and Tools
 [![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=669AD3)](https://wikipedia.org/wiki/C++)
