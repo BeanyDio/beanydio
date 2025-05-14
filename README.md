@@ -1,6 +1,4 @@
-<a href="https://t.me/SupernalRB" target="_blank">
-  <img src="https://github.com/BeanyDio/beanydio/blob/main/main.gif?raw=true" width="40%" style="max-width: 400px;"/>
-</a>
+[![Header](https://github.com/BeanyDio/beanydio/blob/main/header.jpg)](https://t.me/SupernalRB)
 
 ## 15 y/o self-taught developer
 
@@ -17,3 +15,5 @@
 [![VK](https://img.shields.io/badge/-VKONTAKTE-090909?style=for-the-badge&logo=VK&logoColor=037AFF)](https://vk.com/dior_beany)
 [![Discord](https://img.shields.io/badge/-DISCORD-090909?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/703699573667004517)
 [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=youtube&logoColor=FF002D)](https://www.youtube.com/@SupernalRB)
+
+![Snake](https://github.com/FilimonovAlexey/FilimonovAlexey/blob/main/assets/github-snake.svg)
