@@ -5,6 +5,6 @@
 Latest Project
 
 ### Language and Tools
-![Dynamic TOML Badge](https://img.shields.io/badge/dynamic/toml)
+![C++](https://img.shields.io/badge/-C++-004481?style=for-the-badge&logo=c++)
 
 Follow me
