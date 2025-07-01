@@ -4,7 +4,7 @@
 
 ### Projects
  - [Supernal](https://t.me/SupernalRB)
- - [Capsule Market](https://t.me/CapsuleCommunity)
+ - [Capsule Market](https://t.me/CapsuleMarketCommunity)
 
 ### Language and Tools
 [![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=669AD3)](https://wikipedia.org/wiki/C++)
