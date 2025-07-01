@@ -16,4 +16,4 @@
 [![Discord](https://img.shields.io/badge/-DISCORD-090909?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/703699573667004517)
 [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=youtube&logoColor=FF002D)](https://www.youtube.com/@SupernalRB)
 
-![Snake](https://github.com/FilimonovAlexey/FilimonovAlexey/blob/main/assets/github-snake.svg)
+![Snake](https://github.com/BeanyDio/beanydio/blob/main/github-snake.svg)
